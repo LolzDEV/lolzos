@@ -2,6 +2,7 @@ import Vue from "vue";
 import App from "./App.vue";
 import "./registerServiceWorker";
 import store from "./store";
+import "@fontsource/jetbrains-mono";
 
 Vue.config.productionTip = false;
 
